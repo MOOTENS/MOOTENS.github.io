@@ -2,5 +2,5 @@
 ---
 deployment:
       tasks:
-        - export DEPLOYPATH=/home/mootenso/public_html/mootens
-    - /bin/cp index.html $DEPLOYPATH
+        - export DEPLOYPATH=/home3/mootenso/public_html/mootens
+        - /bin/cp index.html $DEPLOYPATH
