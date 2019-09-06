@@ -9,7 +9,7 @@ https://github.com/MOOTENS/MOOTENSbot
 
 "Basic Branded Webpage HTML template by MOOTENS productions" 
 
- <title>🌎❤️MOOTENSbot 🔥 💦Tools 👙🌎 👁️ 😊 for 💕 🙄 💜 😍 😊 Improvement 💕 Through Hypermedia 🏳️‍🌈 🏳️‍🌈 in Business, 🌊 🌊 💕 Art, Technology, 👁️ Health 🖖😂👌 🌎 ... 💜 ...</title>
+ <title>🔥💦️MOOTENSbot🌎 Tools 👙 👁️ 😊 for 💕 🙄 💜 😍 🌎😊 Improvement 💕 Through Hypermedia 🏳️‍🌈 🏳️‍🌈 in Business, 🌊 🌊 💕 Art, Technology, 👁️ Health 🖖😂👌❤🌎 ... 💜 ...</title>
 
 // <title> shows on the address bar of the browser
 
