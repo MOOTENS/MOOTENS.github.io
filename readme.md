@@ -54,4 +54,8 @@ THE FUCKING ADD TO HOMESCREEN BUTTON ACTUALLY POPS OFF IN MY PHONE AND ITS HOSTE
 
 WOWOWOWOW
 
+https://medium.com/statuscode/saving-time-with-multiple-working-trees-in-git-cba4bf5419d3
+
+
+https://documentation.cpanel.net/display/CKB/Guide+to+Git+-+Deployment#710d938061e245748b62a75c45167930
 
